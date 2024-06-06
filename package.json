@@ -1,0 +1,25 @@
+{
+  "name": "gmscrape",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.43.1",
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "async": "^3.2.5",
+    "csv-parser": "^3.0.0",
+    "csv-writer": "^1.6.0",
+    "express": "^4.19.2",
+    "fast-csv": "^5.0.1",
+    "mocha": "10.4.0",
+    "puppeteer": "^22.10.0",
+    "selenium-webdriver": "^4.21.0",
+    "slugify": "^1.6.6"
+  }
+}
